@@ -9,5 +9,8 @@
 void app_main(void)
 {
     printf("Hello world!\n");
+    int a =1;
+    int b=2;
+    printf("suma %d",a+b);
 
 }
